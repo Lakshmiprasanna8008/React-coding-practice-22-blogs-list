@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+li {
+  list-style-type: none;
+}
+.title {
+  color: #12022f;
+  font-size: 24px;
+}
+.dis {
+  color: #9aa5b1;
+  font-size: 16px;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+}
